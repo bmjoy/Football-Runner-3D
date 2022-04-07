@@ -1,5 +1,7 @@
 # Football-Runner-3D
 
+Ready to play game
+
 1. Question gates mechanic
 2. Throw ball mechanic to point (without physics, but mathematically)
 3. Kick ball to point (with physics, add a certain force to reach point)
